@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Somia-Moha
 - 👀 I’m interested in solving problem and coding.
-- 🌱 I’m currently learning full static devloper "INSHALLAH"
+- 🌱 I’m currently learning full stack devloper "INSHALLAH"
 - 💞️ I’m looking to collaborate on amazing projects put future!
 - 📫 How to reach me inistagram sumeya_maxamed
 - 😄 Pronouns: she
